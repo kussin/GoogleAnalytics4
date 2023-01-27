@@ -26,6 +26,10 @@
       "name": "D3 Data Development (Inh. Thomas Dartsch)",
       "email": "info@shopmodule.com",
       "homepage": "https://www.d3data.de"
+    },
+    {
+      "name": "Daniel Kussin",
+      "email": "daniel.kussin@kussin.de"
     }
   ],
   "support": {
@@ -45,7 +49,7 @@
   },
   "require": {
     "php": ">=7.1",
-    "oxid-esales/oxideshop-ce": "^6.5",
+    "oxid-esales/oxideshop-ce": "^6.2",
     "google/apiclient":" ^2.0"
   },
   "autoload": {
